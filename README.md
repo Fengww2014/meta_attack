@@ -1,4 +1,4 @@
-# Meta Physical Adversarial Attack with Improved Robustness and Generalization
+# Meta-Attack: Class-agnostic and Model-agnostic Physical Adversarial Attack
 
 *this paper is received by iccv 2021*
 
