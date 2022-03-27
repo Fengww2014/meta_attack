@@ -1,6 +1,3 @@
-# Meta-Attack: Class-agnostic and Model-agnostic Physical Adversarial Attack
-
-*this paper is received by iccv 2021*
 
 ## Method
 ![method](./method.png)
